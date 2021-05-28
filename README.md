@@ -242,6 +242,10 @@ Reference:
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
+**Design a Stack Overflow**    
+Reference:   
+* [Path to Stack](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
